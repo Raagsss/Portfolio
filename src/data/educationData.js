@@ -16,7 +16,7 @@ export const educationData = [
     ],
     achievements: [
       '2x College Topper Coding Ninjas',
-      'Google Certified: UI/UX Design',
+      'Google Certified: UI/UX Designer',
       'Certified Ethical Hacker (CEH)',
       'Swimming Team Captain & Sports Committee',
     ],
